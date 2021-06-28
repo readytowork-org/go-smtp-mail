@@ -1,4 +1,4 @@
-### GO SMTP Mail 
+# GO SMTP Mail 
 
 
-## Testing using sendgrid
+### Testing using sendgrid

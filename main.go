@@ -11,7 +11,7 @@ func main() {
 
 	// Sender data.
 	from := "apikey"
-	password := "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"
+	password := ""
 
 	// Receiver email address.
 	to := []string{
